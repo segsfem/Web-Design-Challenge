@@ -4,12 +4,12 @@ body {
   }
   
   h1 {
-    font-size: 80px;
+    font-size: 70px;
   }
   
-  /*h3 {
+  h3 {
     font-size: 30px;
-  }*/
+  }
   
   /* Giving our navbar some padding and a background color */
   .navbar {
